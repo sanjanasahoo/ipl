@@ -1,0 +1,25 @@
+{
+  "name": "mbcjs-16-1-ipl-sanjanasahoo",
+  "version": "1.0.0",
+  "description": "practice js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mountblue/mbcjs-16-1-ipl-sanjanasahoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mountblue/mbcjs-16-1-ipl-sanjanasahoo/issues"
+  },
+  "homepage": "https://github.com/mountblue/mbcjs-16-1-ipl-sanjanasahoo#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  },
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
